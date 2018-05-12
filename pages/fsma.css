@@ -1,0 +1,31 @@
+h1{
+    font-family: 'Rammetto One', cursive;;
+    text-align: center;
+}
+h2{
+    font-family:'Shrikhand', cursive;
+    text-align: center;
+}
+body{
+    background-color: #556B2F;
+    background-image: url(../camo.jpeg)
+}
+.f{
+    color: #B22222;
+}
+.s{
+    color: #1E90FF
+}
+.m{
+    color: #9400D3
+}
+nav{
+    font-family:'Merriweather';
+    background-color: #9ACD32;
+    
+}
+a{
+    font-family: inherit;
+    text-decoration: none;
+    color: #556B24;
+}
